@@ -85,6 +85,18 @@ footer {
   margin-top: 20px; 
 }
 
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.gallery-image {
+  width: 200px;
+  height: auto;
+  padding: 10px; /* Add padding */
+}
+
 
 
 
