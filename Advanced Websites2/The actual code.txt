@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome to Coronaville</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #000;
+      color: #fff;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    .header {
+      text-align: center;
+      margin-bottom: 50px;
+    }
+
+    .title {
+      font-size: 36px;
+      color: #c04e4e;
+    }
+
+    .paragraph {
+      font-size: 18px;
+      line-height: 1.6;
+    }
+
+    .footer {
+      text-align: center;
+      margin-top: 50px;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="header">
+      <h1 class="title">Welcome to Coronaville</h1>
+    </header>
+    <main>
+      <p class="paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel neque sed nisl cursus eleifend sit amet vitae libero. Fusce sit amet nulla ligula. Duis id diam feugiat, tincidunt odio ut, posuere risus. Nam condimentum leo sed libero pretium, at lacinia justo ultricies. Vestibulum fringilla nisi at libero faucibus laoreet. Ut nec eros non ligula volutpat rutrum sit amet et magna. Aliquam in justo sed ligula placerat bibendum.</p>
+    </main>
+    <footer class="footer">
+      <p>&copy; 2024 Coronaville. All rights reserved.</p>
+    </footer>
+  </div>
+</body>
+</html>
